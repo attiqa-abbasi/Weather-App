@@ -12,6 +12,7 @@ const weatherIcons = {
     Drizzle: "images/drizzle.png",
     Mist: "images/mist.png",
     Smoke: "images/smoke.png",
+    Haze: "images/smoke.png",
     Snow: "images/snow.png"
 };
 
